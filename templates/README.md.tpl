@@ -2,7 +2,8 @@
 
 <img align="right" src="https://raw.githubusercontent.com/kreuzwerkerbot/kreuzwerkerbot/master/assets/xw.png" width="260">
 
-I'm Olga, an full-stack developer with focus on Java and SpringBoot.
+I'm Olga, a full-stack developer with focus on Java and SpringBoot. I am passionate about languages, both human and computer ones.
+I like open and constructive communication and believe, that it's more important to respond to a change on time rather than sticking to the plan. 
 
 #### 📫 How to reach me
 In English, German or Russian...
