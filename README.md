@@ -1,31 +1,66 @@
-Hi, I’m @kreuzwerkerbot, the automation bot <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there 👋
 
-<img align="right" src="https://raw.githubusercontent.com/kreuzwerkerbot/kreuzwerkerbot/master/assets/xw.png" width="200">
+<img align="right" src="https://raw.githubusercontent.com/kreuzwerkerbot/kreuzwerkerbot/master/assets/xw.png" width="260">
 
-- 👀 I’m interested in making engineers' life easier, e.g. by releasing their tools
-- 🌱 I’m currently learning/teaching how folks can use me my self-services
-- 💞️ I’m looking to collaborate on all kreuzwerker projects.
-- 📫 How to reach me ... uff this is very hard
+I'm Olga, an full-stack developer with focus on Java and SpringBoot.
 
-## Languages and Tools
+#### 📫 How to reach me
+In English, German or Russian...
 
+- [Mail](mailto:olga.syrova@kreuzwerker.de)
+
+#### 🛠 Languages and Tools
 <p>
 
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-official.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
-  <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-official.svg"></code>
+  <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/containerdio/containerdio-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
   <br />
  
 </p>
 
-### 🔭 Latest releases I've contributed to
+#### 👷 Check out what I'm currently working on
 
-... no contributions yet. But they are in the making
+
+#### 🌱 My latest projects
+
+
+#### 🔭 Latest releases I've contributed to
+
+
+#### 🔨 My recent Pull Requests
+
+
+
+#### 📓 Gists I wrote
+
+
+#### ⭐ Recent Stars
+
+
+#### ❤️ These awesome people sponsor me (thank you!)
+
+
+#### 👯 Check out some of my recent followers
+
+
+#### 💬 Feedback
+
+Say Hello, I don't bite!
+
+#### 📫 How to reach me
+
+- Twitter: https://twitter.com/...
+- Fediverse: https://mastodon.social/@...
+- Blog: https://...
+
+Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
+
+
