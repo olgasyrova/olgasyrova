@@ -30,40 +30,4 @@ In English, German or Russian...
 
 no contributions yet. But they are in the making.
 
-#
-
-/* #### 🌱 My latest projects */
-#
-
-/* #### 🔭 Latest releases I've contributed to */
-#
-
-// #### 🔨 My recent Pull Requests
-
-
-
-# #### 📓 Gists I wrote
-#
-
-# #### ⭐ Recent Stars
-#
-
-# #### ❤️ These awesome people sponsor me (thank you!)
-#
-
-# #### 👯 Check out some of my recent followers
-
-
-#### 💬 Feedback
-
-Say Hello, I don't bite!
-
-# #### 📫 How to reach me
-
-# - Twitter: https://twitter.com/...
-# - Fediverse: https://mastodon.social/@...
-# - Blog: https://...
-
-# Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
-
 
