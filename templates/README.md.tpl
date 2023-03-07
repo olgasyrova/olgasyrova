@@ -1,5 +1,31 @@
 ### Hi there 👋
 
+<img align="right" src="https://raw.githubusercontent.com/kreuzwerkerbot/kreuzwerkerbot/master/assets/xw.png" width="260">
+
+I'm Olga, an full-stack developer with focus on Java and SpringBoot.
+
+#### 📫 How to reach me
+In English, German or Russian...
+
+- [Mail](mailto:olga.syrova@kreuzwerker.de)
+
+#### 🛠 Languages and Tools
+<p>
+
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-official.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
+  <br />
+ 
+</p>
+
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
