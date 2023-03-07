@@ -32,10 +32,10 @@ no contributions yet. But they are in the making.
 
 #
 
-// #### 🌱 My latest projects
+/* #### 🌱 My latest projects */
 #
 
-// #### 🔭 Latest releases I've contributed to
+/* #### 🔭 Latest releases I've contributed to */
 #
 
 // #### 🔨 My recent Pull Requests
